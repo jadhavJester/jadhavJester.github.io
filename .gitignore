@@ -1,0 +1,7 @@
+.venv/
+venv/
+node_modules/
+.DS_Store
+.env
+_site/
+.jekyll-cache/
